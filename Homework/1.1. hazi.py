@@ -10,4 +10,4 @@ def mondat_elemzes(name):
 
 if __name__ == "__main__":
     mondat = input("Adjon meg egy mondatot: \n")
-    mondat_elemzes(mondat)
+    mondat_elemzes(mondat) 

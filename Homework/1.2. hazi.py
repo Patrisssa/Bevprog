@@ -10,4 +10,4 @@ if __name__ == "__main__":
     print("Adjon meg egy számot és egy mértékegységet (cm/inch):")
     mertek = float(input(""))
     mertekegyseg = input("")
-    valto(mertek, mertekegyseg)
+    valto(mertek, mertekegyseg) 
